@@ -56,3 +56,7 @@ Rapid Prototyping: Providing a reference architecture for deploying machine lear
 
 Conclusion
 This project successfully demonstrates the end-to-end process of building, evaluating, and deploying a machine learning model for multi-class classification. By leveraging Python’s robust libraries and FastAPI’s simplicity, the solution offers a practical, scalable, and easily extendable template for similar machine learning applications. The project not only automates the classification of iris species but also provides a foundation for deploying machine learning models in production environments, highlighting the value of data-driven automation in scientific and industrial domains.
+
+#output
+
+![Image](https://github.com/user-attachments/assets/fc35ead1-3166-43ba-bed4-a8c5c0432dbf)
